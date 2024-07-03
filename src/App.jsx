@@ -10,11 +10,8 @@ const App = () => {
   return (
     <div>
       <BrowserRouter>
-       <Header />
-        <div className='Container' style={{
-           //backgroundImage : 'url(https://repository-images.githubusercontent.com/684966026/e53255e0-a4b3-4af5-8067-4b471c1edb42)'
-            //backgroundImage : 'url(https://static.airasia.com/design/images/flight/inflight-meal/ml-nlcb.jpg)'
-        }}>
+        <Header card={card } />
+        <div className='Container'>
           <Routes>
             <Route path='/' element={<Home card={card} setCard={ setCard} />} />
             <Route path='/cart' element= {<Card  card={card} setCard={ setCard}/>} />

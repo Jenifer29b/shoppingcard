@@ -25,3 +25,11 @@
     padding-right: 20px;
 
 }
+
+.count{
+    background-color: yellowgreen;
+    padding: 5px;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+}
