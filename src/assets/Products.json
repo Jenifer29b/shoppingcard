@@ -1,0 +1,71 @@
+[{
+     "id" :1,
+     "fname" : "Breakfast",
+     "Amt" : "299",
+     "Shop" : "Food Hub",
+     "img" : "https://assets.vogue.in/photos/5da99f07d34278000861d438/1:1/w_4911,h_4911,c_limit/Chennai%20Food%20guide%20restaurants%20you%20need%20to%20visit.jpg"
+},
+{
+    "id" :2,
+     "fname" : "Masala Dosa",
+     "Amt" : "209",
+     "Shop" : "Food court",
+     "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSijF0hkS9MyZuRlN5GR7-k1zBHksd4FG5zMg&s"
+},
+{
+    "id" :3,
+     "fname" : "Mexican Dishes",
+     "Amt" : "399",
+     "Shop" : "Mexican Court",
+     "img" : "https://promova.com/content/mexican_food_examples_e3af752287.png"
+
+},
+{
+    "id" :4,
+     "fname" : "Fresh Juice",
+     "Amt" : "199",
+     "Shop" : "Juice Center",
+     "img" : "https://www.foodiesfeed.com/wp-content/uploads/2023/04/strawberry-milk-splash.jpg"
+},
+{
+    "id" :5,
+     "fname" : "Pizza",
+     "Amt" : "299",
+     "Shop" : "Pizza Hut",
+     "img" : "https://cdn.sanity.io/images/cctd4ker/production/9296da795070ca0b6d9147d9507ab54d9e2dba84-1440x960.jpg?w=3840&q=75&fit=clip&auto=format"
+},
+{
+    "id" :6,
+     "fname" : "Fruits Salad",
+     "Amt" : "199",
+     "Shop" : "Fruits Hub",
+     "img" : "https://www.eatright.org/-/media/images/eatright-landing-pages/fruitslp_804x482.jpg?as=0&w=967&rev=455de270eeec45bfb8962189105f8eac&hash=E08D30DFB558AF09444C354E76BCE3B6"
+},
+{
+    "id" :7,
+     "fname" : "Sweets",
+     "Amt" : "199",
+     "Shop" : "Sweets Center",
+     "img" : "https://moha-mushkil.com/wp-content/uploads/2019/11/IMG_20191101_170415.jpg"
+},
+{
+    "id" :8,
+     "fname" : "Deserts",
+     "Amt" : "189",
+     "Shop" : "Icecream center",
+     "img" : "https://realfood.tesco.com/media/images/RFO-1400x919-classic-chocolate-mousse-69ef9c9c-5bfb-4750-80e1-31aafbd80821-0-1400x919.jpg"
+},
+{
+    "id" :9,
+     "fname" : "Icecreams",
+     "Amt" : "109",
+     "Shop" : "Food Hub",
+     "img" : "https://cdn.prod.website-files.com/5e9ebc3fff165933f19fbdbe/61b31c9d289e22335b6753b2_Ice%20Cream%202.jpg"
+},
+{
+    "id" :10,
+     "fname" : "Full Meals",
+     "Amt" : "499",
+     "Shop" : "Food court",
+     "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-xJCMrqnkCcmuzyMSAdWojpYv49Hw3IR3NyeRQjvXxC0vEsC9YX2j3fXWXyGPxthehXE&usqp=CAU"
+}]

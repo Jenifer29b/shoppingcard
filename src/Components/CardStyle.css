@@ -1,0 +1,10 @@
+.Card-Container{
+    display: flex;
+    flex-direction: column;
+   
+}
+
+.btn1{
+    border: 2px,solid,black;
+    background-color: cadetblue;
+}

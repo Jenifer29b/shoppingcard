@@ -1,0 +1,27 @@
+.navebar{
+    width: 100%;
+    height: 50px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px,10px;
+    font-size: xx-large;
+}
+
+.Logo{
+    color: azure;
+    font-size: xx-large
+}
+
+.navebar ul{
+        display: inline-flex;
+        gap : 10px
+}
+
+.navebar ul li a{
+    text-decoration: none;
+    color: whitesmoke;
+    padding-right: 20px;
+
+}
